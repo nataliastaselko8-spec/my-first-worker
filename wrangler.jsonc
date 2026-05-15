@@ -12,7 +12,7 @@
     },
 
     "prod": {
-      "name": "my-first-worker-prod",
+      "name": "my-first-worker",
       "vars": {
         "ENV": "prod"
       }
